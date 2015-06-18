@@ -52,19 +52,19 @@
 Приложение должно обрабатывать аппаратные и программные ошибки. 
 
 Используемые технологии:
-1 часть 
-* IDE - Any (Eclipse, IDEA)
-* Tomcat 8.0.x
-* Servlet/JSP
-* DB – MySQL 5.6
-* Maven 3.*
-* JPA 2.0
-2 часть (включая предыдущие)
-* AS – Glassfish 4.0/WildFly 8.x
-* EJB 3.x
-* JSF 2.x
-или
-* Spring Framework
+* 1 часть
+  * IDE - Any (Eclipse, IDEA)
+  * Tomcat 8.0.x
+  * Servlet/JSP
+  * DB – MySQL 5.6
+  * Maven 3.*
+  * JPA 2.0
+* 2 часть (включая предыдущие)
+  * AS – Glassfish 4.0/WildFly 8.x
+  * EJB 3.x
+  * JSF 2.x
+  или
+  * Spring Framework
 
 
 ##Критерии успешного выполнения
